@@ -1,0 +1,22 @@
+.images{
+    width: 100%;
+}
+.post{
+    width: 500px;
+    border: 1px solid grey;
+    margin-top: 1rem;
+
+}
+.single-container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.post-heading{
+    display: flex;
+    justify-content: space-between;
+}
+#myTab{
+    display: flex;
+    justify-content: center;
+}
